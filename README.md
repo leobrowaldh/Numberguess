@@ -1,0 +1,1 @@
+Guess the pc's secret number, or make the pc guess yours.
